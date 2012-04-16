@@ -1,8 +1,3 @@
 
 .vagrant
-
-cookbooks/.DS_Store
-
-cookbooks/apache2/.DS_Store
-
-cookbooks/php/.DS_Store
+.DS_Store
